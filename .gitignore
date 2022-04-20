@@ -1,0 +1,16 @@
+conf/
+logs/
+node_modules/
+app/sql/
+.parcel-cache/
+app/public/*
+
+!app/public/wp-content/
+
+app/public/wp-content/index.php
+
+app/public/wp-content/plugins/*
+app/public/wp-content/upload/*
+app/public/wp-content/themes/*
+
+!app/public/wp-content/themes/voedselbank/
