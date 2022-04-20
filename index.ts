@@ -1,0 +1,1 @@
+import './app/public/wp-content/themes/voedselbank/assets/styles/styles.scss';

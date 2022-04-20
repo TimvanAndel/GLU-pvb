@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.4.1",
+    "parcel": "^2.4.1"
+  },
+  "source": "index.ts",
+  "scripts": {
+    "dev": "parcel watch --dist-dir ./app/public/wp-content/themes/voedselbank/dist"
+  }
+}
